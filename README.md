@@ -1,0 +1,2 @@
+# SC-Angga
+Recode itsuki
